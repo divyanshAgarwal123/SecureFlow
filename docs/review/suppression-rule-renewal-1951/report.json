@@ -1,0 +1,28 @@
+{
+  "fixture": "Next.js local test auth and isolated PostgreSQL",
+  "adminRouteProtected": true,
+  "report": [
+    {
+      "width": 1360,
+      "keyboardAndDateValidation": true,
+      "persistedRenewal": true,
+      "audit": true,
+      "ordinaryEditPreservedExpiry": true,
+      "staleEditRejected": true,
+      "duplicateRenewalRejected": true,
+      "retainedInput": true,
+      "pageErrors": []
+    },
+    {
+      "width": 390,
+      "keyboardAndDateValidation": true,
+      "persistedRenewal": true,
+      "audit": true,
+      "ordinaryEditPreservedExpiry": true,
+      "staleEditRejected": true,
+      "duplicateRenewalRejected": true,
+      "retainedInput": true,
+      "pageErrors": []
+    }
+  ]
+}

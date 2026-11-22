@@ -1,0 +1,4 @@
+./src/lib/tracing/index.ts:18:1
+Error: Export Resource doesn't exist in target module
+./src/lib/tracing/index.ts:18:1
+Error: Export Resource doesn't exist in target module

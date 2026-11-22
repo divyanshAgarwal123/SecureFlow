@@ -1,0 +1,2 @@
+src/lib/tracing/index.test.ts(191,16): error TS2339: Property 'addSpanProcessor' does not exist on type 'BasicTracerProvider'.
+src/lib/tracing/index.ts(292,24): error TS2693: 'Resource' only refers to a type, but is being used as a value here.
