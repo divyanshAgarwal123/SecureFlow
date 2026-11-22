@@ -1,0 +1,45 @@
+<!-- secureflow-report -->
+### 🛡️ SecureFlow AI Security Report
+
+Scanned commit: `head-fixture`
+
+⚠️ Detected **3** potential issues matching your code policies. Please review them before merging.
+
+📍 **1** finding(s) are annotated inline on the exact changed lines below.
+
+**By owner:** `@example/platform` (1), `team@example.test` (1), Unowned (1), `@docs` (1)
+
+#### Owners of findings posted inline
+
+- `docs/guide.md` (1) — `@docs`
+
+#### 🔵 LOW | **Example finding** in `src/api.ts`
+**Owners:** `@example/platform`, `team@example.test`
+
+>
+
+<details>
+<summary><b>🛠️ View Remediation Suggestions</b></summary>
+
+
+
+</details>
+
+---
+
+#### 🔵 LOW | **Example finding** in `src/generated/types.ts`
+**Owners:** Unowned
+
+>
+
+<details>
+<summary><b>🛠️ View Remediation Suggestions</b></summary>
+
+
+
+</details>
+
+---
+
+
+PASS: A head-only CODEOWNERS file is ignored and the baseline report is unchanged.

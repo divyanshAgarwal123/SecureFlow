@@ -1,0 +1,20 @@
+<!-- secureflow-report -->
+### 🛡️ SecureFlow AI Security Report
+
+Scanned commit: `fixture-head`
+
+⚠️ Detected **2** potential issues matching your code policies. Please review them before merging.
+
+📍 **1** finding(s) are annotated inline on the exact changed lines below.
+
+#### 🔵 LOW | **Example finding** in `src/sample.ts`
+> Sample explanation.
+
+<details>
+<summary><b>🛠️ View Remediation Suggestions</b></summary>
+
+Sample remediation.
+
+</details>
+
+---
